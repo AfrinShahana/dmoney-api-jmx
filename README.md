@@ -2,20 +2,20 @@
 #  dmoney-Api-jmx
 
 ## How to Generate load test report from the CLI
--download .jmx file 
--keep this in \apache-jmeter-5.5\bin
--open this with cmd 
--jmeter -n -t [jmx file] -l [results file] -e -o [Path to web report folder]
+- download .jmx file 
+- keep this in \apache-jmeter-5.5\bin
+- open this with cmd 
+- jmeter -n -t [jmx file] -l [results file] -e -o [Path to web report folder]
 
 
 ## Technology Used 
--Postman
--jmeter 
--visual studio code
+- Postman
+- jmeter 
+- visual studio code
  
 
 ## Documentation 
-file:///C:/Users/19201120/Desktop/apache-jmeter-5.5/bin/reportss/index.html
+- file:///C:/Users/19201120/Desktop/apache-jmeter-5.5/bin/reportss/index.html
 
 
 
